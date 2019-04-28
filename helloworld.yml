@@ -5,4 +5,4 @@
   tasks:
  
   - name: Hello World!
-    shell: touch /root/1.txt
+    shell: yum install lrzsz -y
