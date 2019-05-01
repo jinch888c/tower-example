@@ -1,6 +1,6 @@
 ---
 - name: Hello World!
-  hosts: all
+  hosts: test_gcp2
   remote_user: mac
   tasks:
  
