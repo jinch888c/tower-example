@@ -1,7 +1,7 @@
 ---
 - name: Hello World!
   hosts: all
- 
+  remote_user: mac
   tasks:
  
   - name: Hello World!
